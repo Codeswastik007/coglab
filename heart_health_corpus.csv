@@ -1,0 +1,169 @@
+query,intent
+What are the symptoms of a heart attack?,symptoms
+What are the early warning signs of heart disease?,symptoms
+How do I know if my chest pain is related to my heart?,symptoms
+Do women experience different heart attack symptoms than men?,symptoms
+What does angina feel like?,symptoms
+Can pain in the left arm be a sign of a heart problem?,symptoms
+Is shortness of breath a symptom of heart failure?,symptoms
+"Why do my ankles swell, is it related to the heart?",symptoms
+What are the signs of an irregular heartbeat?,symptoms
+Can a heart attack happen without chest pain?,symptoms
+What does a silent heart attack mean?,symptoms
+Is jaw pain a warning sign of heart trouble?,symptoms
+How does heart attack pain feel?,symptoms
+What are the warning signs of a heart problem in older people?,symptoms
+Can heart disease cause fatigue and tiredness?,symptoms
+Is sweating with chest discomfort a heart symptom?,symptoms
+Why do I feel breathless when climbing stairs?,symptoms
+Can a heart problem cause nausea or indigestion?,symptoms
+What are the symptoms of a blocked artery?,symptoms
+Can palpitations be a sign of heart disease?,symptoms
+Is dizziness or fainting a symptom of a heart condition?,symptoms
+What are the signs of heart failure in elderly people?,symptoms
+Does pain in the back or shoulder indicate a heart problem?,symptoms
+What symptoms do diabetics get during a heart attack?,symptoms
+What are the main risk factors for heart disease?,risk_factors
+Does smoking increase the risk of heart attack?,risk_factors
+Can diabetes damage my heart?,risk_factors
+Is heart disease hereditary if it runs in my family?,risk_factors
+Does being overweight affect heart health?,risk_factors
+How does stress affect the heart?,risk_factors
+At what age does the risk of heart disease increase?,risk_factors
+Does drinking alcohol harm the heart?,risk_factors
+Are men more at risk of heart disease than women?,risk_factors
+Can lack of sleep raise my chances of heart problems?,risk_factors
+Does air pollution affect cardiovascular risk?,risk_factors
+Which habits put me at risk of a heart attack?,risk_factors
+Who is most likely to get heart disease?,risk_factors
+Do Indians have a higher risk of heart disease?,risk_factors
+Does chewing tobacco or gutka affect the heart?,risk_factors
+Is high cholesterol a risk factor for heart attack?,risk_factors
+Can a sedentary lifestyle increase heart disease risk?,risk_factors
+Does menopause increase heart disease risk in women?,risk_factors
+Is my risk higher if my father had a heart attack?,risk_factors
+Do energy drinks increase the risk of heart problems?,risk_factors
+Can obesity in children lead to heart disease later?,risk_factors
+Does vaping damage the heart?,risk_factors
+Can high blood pressure increase my heart risk?,risk_factors
+What increases the chance of having a second heart attack?,risk_factors
+What foods are good for heart health?,diet_nutrition
+Which foods should I avoid to protect my heart?,diet_nutrition
+Is the Mediterranean diet good for the heart?,diet_nutrition
+How much salt should I eat per day for a healthy heart?,diet_nutrition
+Are eggs bad for my heart?,diet_nutrition
+Is ghee or butter harmful for the heart?,diet_nutrition
+Which cooking oil is best for heart health?,diet_nutrition
+Do omega-3 fatty acids from fish help the heart?,diet_nutrition
+Is coffee safe for people with heart disease?,diet_nutrition
+What should a heart patient eat for breakfast?,diet_nutrition
+Are nuts and seeds beneficial for the heart?,diet_nutrition
+How does sugar intake affect heart health?,diet_nutrition
+Which fruits are good for the heart?,diet_nutrition
+Is a vegetarian diet better for heart health?,diet_nutrition
+Should I eat less red meat for my heart?,diet_nutrition
+Are fried foods like samosa and pakora bad for the heart?,diet_nutrition
+Is dark chocolate good for the heart?,diet_nutrition
+How much fibre should I eat for a healthy heart?,diet_nutrition
+Are processed foods and pickles harmful for heart patients?,diet_nutrition
+What is the DASH diet?,diet_nutrition
+Are millets and whole grains good for the heart?,diet_nutrition
+Which vegetables protect against heart disease?,diet_nutrition
+What should I eat to keep my heart healthy?,diet_nutrition
+What is a healthy diet plan for heart patients?,diet_nutrition
+How much exercise do I need for a healthy heart?,exercise_lifestyle
+What is the best exercise for heart health?,exercise_lifestyle
+Is walking daily good for my heart?,exercise_lifestyle
+Can I lift weights if I have heart disease?,exercise_lifestyle
+Does yoga help improve heart health?,exercise_lifestyle
+How can I start exercising safely after a heart attack?,exercise_lifestyle
+What is cardiac rehabilitation?,exercise_lifestyle
+How can I quit smoking to protect my heart?,exercise_lifestyle
+Does sitting for long hours harm my heart?,exercise_lifestyle
+How does good sleep help the heart?,exercise_lifestyle
+What lifestyle changes can prevent heart disease?,exercise_lifestyle
+How can I manage stress to keep my heart healthy?,exercise_lifestyle
+How many steps a day are good for the heart?,exercise_lifestyle
+Is running or jogging good for heart health?,exercise_lifestyle
+Is swimming a good workout for the heart?,exercise_lifestyle
+What type of physical activity strengthens the heart?,exercise_lifestyle
+Is it safe to go to the gym with high blood pressure?,exercise_lifestyle
+How many minutes of exercise per week does my heart need?,exercise_lifestyle
+Does meditation reduce the risk of heart disease?,exercise_lifestyle
+How can I lose weight to improve my heart health?,exercise_lifestyle
+Can I play sports after angioplasty?,exercise_lifestyle
+What are heart-healthy daily habits?,exercise_lifestyle
+How long should I walk every day for fitness?,exercise_lifestyle
+Does cycling improve cardiovascular fitness?,exercise_lifestyle
+What is a normal blood pressure reading?,blood_pressure
+What causes high blood pressure?,blood_pressure
+How can I lower my blood pressure naturally?,blood_pressure
+What are the symptoms of hypertension?,blood_pressure
+Is low blood pressure dangerous?,blood_pressure
+How often should I check my blood pressure at home?,blood_pressure
+What do the systolic and diastolic numbers mean?,blood_pressure
+Can high blood pressure cause a stroke or heart attack?,blood_pressure
+Why is hypertension called a silent killer?,blood_pressure
+How does salt raise blood pressure?,blood_pressure
+Which home BP monitor reading is considered high?,blood_pressure
+Can blood pressure be high in young people?,blood_pressure
+What is the ideal blood pressure for adults?,blood_pressure
+Is 140 over 90 high blood pressure?,blood_pressure
+What foods help reduce high blood pressure?,blood_pressure
+Can stress raise my blood pressure?,blood_pressure
+Why does my blood pressure go up in the morning?,blood_pressure
+How do I measure blood pressure correctly?,blood_pressure
+Is a blood pressure of 90 over 60 too low?,blood_pressure
+What is a hypertensive crisis?,blood_pressure
+Can high blood pressure be cured permanently?,blood_pressure
+Does coffee increase blood pressure?,blood_pressure
+What lifestyle changes control hypertension?,blood_pressure
+What is white coat hypertension?,blood_pressure
+What is a normal cholesterol level?,cholesterol
+What is the difference between LDL and HDL cholesterol?,cholesterol
+How can I reduce my LDL cholesterol?,cholesterol
+What are triglycerides and why do they matter?,cholesterol
+Does high cholesterol cause heart disease?,cholesterol
+What foods raise good HDL cholesterol?,cholesterol
+How often should I get my cholesterol checked?,cholesterol
+Can thin people have high cholesterol?,cholesterol
+How does plaque build up in the arteries?,cholesterol
+What is atherosclerosis?,cholesterol
+Is high cholesterol genetic?,cholesterol
+What do my lipid profile numbers mean?,cholesterol
+What causes high cholesterol?,cholesterol
+Which foods lower cholesterol?,cholesterol
+Is eating oats good for lowering cholesterol?,cholesterol
+What is a good HDL level?,cholesterol
+Can exercise raise HDL and lower LDL?,cholesterol
+What are high triglycerides and how do I lower them?,cholesterol
+Is cholesterol in food the same as blood cholesterol?,cholesterol
+At what LDL level do I need treatment?,cholesterol
+What is familial hypercholesterolemia?,cholesterol
+How does cholesterol block arteries?,cholesterol
+Does ghee raise cholesterol levels?,cholesterol
+What is total cholesterol?,cholesterol
+What tests are used to diagnose heart disease?,tests_treatment
+What is an ECG and why is it done?,tests_treatment
+What does an echocardiogram show?,tests_treatment
+What is a treadmill stress test?,tests_treatment
+What is angiography and when is it needed?,tests_treatment
+What is the difference between angioplasty and bypass surgery?,tests_treatment
+What are statins used for?,tests_treatment
+Why do doctors prescribe aspirin for heart patients?,tests_treatment
+What is a stent?,tests_treatment
+What are the side effects of beta blockers?,tests_treatment
+What is a pacemaker and who needs one?,tests_treatment
+What is a coronary calcium score?,tests_treatment
+What is a Holter monitor test?,tests_treatment
+How is a heart attack diagnosed in hospital?,tests_treatment
+What does a troponin blood test show?,tests_treatment
+When is bypass surgery recommended?,tests_treatment
+How long does a stent last?,tests_treatment
+What are ACE inhibitors used for?,tests_treatment
+What does a 2D echo test check?,tests_treatment
+How is heart failure treated?,tests_treatment
+What medicines are given after a heart attack?,tests_treatment
+What is a CT coronary angiogram?,tests_treatment
+Is angioplasty a major surgery?,tests_treatment
+Do I need a TMT test if my ECG is normal?,tests_treatment
